@@ -1,0 +1,16 @@
+{
+    "name": "xmtapp/framework",
+    "description": "xmtapp framework",
+    "license": "Apache License",
+    "authors": [{
+        "name": "DongYao",
+        "email": "dong_yao_cn@163.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "XmtApp\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
